@@ -1,0 +1,13 @@
+.layout-header {
+  background-color: cadetblue;
+  max-height: 80px;
+  text-align: center;
+  padding: 30px;
+}
+
+.layout-footer {
+  background-color: coral;
+  max-height: 80px;
+  text-align: center;
+  padding: 20px;
+}
