@@ -10,4 +10,13 @@
   max-height: 80px;
   text-align: center;
   padding: 20px;
+  width: 95vw;
+}
+
+.container{
+  display: flex;
+  font-size: 100px;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
